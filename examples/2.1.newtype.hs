@@ -1,0 +1,3 @@
+
+newtype Value = Val Int
+
