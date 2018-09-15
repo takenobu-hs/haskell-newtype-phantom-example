@@ -1,11 +1,11 @@
 Haskell examples of newtype and phantom type
 --------------------------------------------
 
-This is an example collection for the article (in Japasene).
+This is an example collection for [the article](https://qiita.com/takenobu-hs/items/14101cabf313e6d594ca) (in Japasene).
 
 Using:
 ```
-$ ghci xx.hs
+$ ghci examples/xxx.hs
 
 Prelude> y = 100 :: Yen
 Prelude> z = 1 :: USD
